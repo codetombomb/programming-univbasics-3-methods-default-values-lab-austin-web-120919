@@ -9,7 +9,6 @@ end
 meal_choice("broccoli", "macaroni") 
 meal_choice("broccoli", "macaroni", "tofu")
 puts 'What a nutritious meal!'
-end
 
 
 
