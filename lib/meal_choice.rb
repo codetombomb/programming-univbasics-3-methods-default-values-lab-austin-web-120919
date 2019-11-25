@@ -4,7 +4,6 @@
 def meal_choice(veg1, veg2, protien="meat")
   order_to_console = "A plate of #{protien} with #{veg1} and #{veg2}"
  puts 'What a nutritious meal!' 
- puts order_to_console
  return order_to_console
 end
 
